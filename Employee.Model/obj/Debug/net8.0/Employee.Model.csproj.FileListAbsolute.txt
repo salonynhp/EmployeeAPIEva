@@ -1,0 +1,23 @@
+D:\New Project\employeedata2\EmployeeData\Employee.Model\bin\Debug\net8.0\Employee.Model.deps.json
+D:\New Project\employeedata2\EmployeeData\Employee.Model\bin\Debug\net8.0\Employee.Model.dll
+D:\New Project\employeedata2\EmployeeData\Employee.Model\bin\Debug\net8.0\Employee.Model.pdb
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employee.Model.AssemblyInfoInputs.cache
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employee.Model.AssemblyInfo.cs
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employee.Model.csproj.CoreCompileInputs.cache
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employee.Model.dll
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\refint\Employee.Model.dll
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employee.Model.pdb
+D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\ref\Employee.Model.dll
+C:\Users\salon\source\repos\Remote\Employee.Model\bin\Debug\net8.0\Employee.Model.deps.json
+C:\Users\salon\source\repos\Remote\Employee.Model\bin\Debug\net8.0\Employee.Model.dll
+C:\Users\salon\source\repos\Remote\Employee.Model\bin\Debug\net8.0\Employee.Model.pdb
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\Employee.Model.AssemblyInfoInputs.cache
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\Employee.Model.AssemblyInfo.cs
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\Employee.Model.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\Employee.Model.sourcelink.json
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\Employee.Model.dll
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\refint\Employee.Model.dll
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\Employee.Model.pdb
+C:\Users\salon\source\repos\Remote\Employee.Model\obj\Debug\net8.0\ref\Employee.Model.dll
